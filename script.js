@@ -70,6 +70,7 @@ quoteInput.addEventListener('input', () => {
         if(char === span.innerText) {
             span.classList.add('correct');
             span.classList.remove('incorrect');
+            currentCorrect++;
         } else{
             span.classList.add('incorrect');
             span.classList.remove('correct');
