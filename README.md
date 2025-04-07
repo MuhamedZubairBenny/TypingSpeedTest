@@ -1,2 +1,21 @@
-# TypingSpeedTest
-Test your typing skills and improve your speed with our fast and fun typing speed test! Track your words per minute, accuracy, and time.
+Typing Speed Test
+
+A simple and responsive web application that lets users test and improve their typing speed and accuracy. Built using HTML, CSS, and JavaScript.
+
+🚀 Features
+
+    - Real-time Words Per Minute (WPM) tracking
+
+    - Accuracy calculation
+
+    - Restart and try again functionality
+
+    - Clean and user-friendly interface
+
+💻 Technologies Used
+
+    HTML – Structure of the app
+
+    CSS – Styling and layout
+
+    JavaScript – Typing logic and performance calculations
